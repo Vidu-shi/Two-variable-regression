@@ -1,2 +1,2 @@
 # Two-variable-regression
-Predicting the score usng Python
+Predicting the score using Python
